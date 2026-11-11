@@ -1,0 +1,18 @@
+# WordPress configuration and secrets
+wp-config.php
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+error_log
+
+# Cache
+wp-content/cache/
+wp-content/upgrade/
+
+# Temporary files
+*.tmp
+*.bak
